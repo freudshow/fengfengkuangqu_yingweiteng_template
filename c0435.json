@@ -9,7 +9,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1092,
+          "RtdbNo": 1086,
           "Desc": "设备[1]-逆变器1-运行状态",
           "Type": 1,
           "No": 0,
@@ -25,28 +25,20 @@
           "SelectData": "2"
         },
         {
-          "RtdbNo": 493,
-          "Desc": "设备[0]-逆变器1-停机",
-          "Type": 0,
-          "No": 2,
-          "InputOutPut": 1,
-          "SelectData": "5"
-        },
-        {
           "RtdbNo": 495,
           "Desc": "设备[0]-逆变器1-故障停机",
           "Type": 0,
-          "No": 3,
+          "No": 2,
           "InputOutPut": 1,
-          "SelectData": "4"
+          "SelectData": "3"
         },
         {
           "RtdbNo": 497,
           "Desc": "设备[0]-逆变器1-待机",
           "Type": 0,
-          "No": 4,
+          "No": 3,
           "InputOutPut": 1,
-          "SelectData": "0"
+          "SelectData": "1"
         }
       ]
     },
@@ -58,7 +50,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1114,
+          "RtdbNo": 1102,
           "Desc": "设备[2]-逆变器2-运行状态",
           "Type": 1,
           "No": 0,
@@ -74,28 +66,20 @@
           "SelectData": "2"
         },
         {
-          "RtdbNo": 499,
-          "Desc": "设备[0]-逆变器2-停机",
-          "Type": 0,
-          "No": 2,
-          "InputOutPut": 1,
-          "SelectData": "5"
-        },
-        {
           "RtdbNo": 501,
           "Desc": "设备[0]-逆变器2-故障停机",
           "Type": 0,
-          "No": 3,
+          "No": 2,
           "InputOutPut": 1,
-          "SelectData": "4"
+          "SelectData": "3"
         },
         {
           "RtdbNo": 503,
           "Desc": "设备[0]-逆变器2-待机",
           "Type": 0,
-          "No": 4,
+          "No": 3,
           "InputOutPut": 1,
-          "SelectData": "0"
+          "SelectData": "1"
         }
       ]
     },
@@ -107,7 +91,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1136,
+          "RtdbNo": 1118,
           "Desc": "设备[3]-逆变器3-运行状态",
           "Type": 1,
           "No": 0,
@@ -123,28 +107,20 @@
           "SelectData": "2"
         },
         {
-          "RtdbNo": 505,
-          "Desc": "设备[0]-逆变器3-停机",
-          "Type": 0,
-          "No": 2,
-          "InputOutPut": 1,
-          "SelectData": "5"
-        },
-        {
           "RtdbNo": 507,
           "Desc": "设备[0]-逆变器3-故障停机",
           "Type": 0,
-          "No": 3,
+          "No": 2,
           "InputOutPut": 1,
-          "SelectData": "4"
+          "SelectData": "3"
         },
         {
           "RtdbNo": 509,
           "Desc": "设备[0]-逆变器3-待机",
           "Type": 0,
-          "No": 4,
+          "No": 3,
           "InputOutPut": 1,
-          "SelectData": "0"
+          "SelectData": "1"
         }
       ]
     },
@@ -156,7 +132,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1158,
+          "RtdbNo": 1134,
           "Desc": "设备[4]-逆变器4-运行状态",
           "Type": 1,
           "No": 0,
@@ -172,28 +148,20 @@
           "SelectData": "2"
         },
         {
-          "RtdbNo": 511,
-          "Desc": "设备[0]-逆变器4-停机",
-          "Type": 0,
-          "No": 2,
-          "InputOutPut": 1,
-          "SelectData": "5"
-        },
-        {
           "RtdbNo": 513,
           "Desc": "设备[0]-逆变器4-故障停机",
           "Type": 0,
-          "No": 3,
+          "No": 2,
           "InputOutPut": 1,
-          "SelectData": "4"
+          "SelectData": "3"
         },
         {
           "RtdbNo": 515,
           "Desc": "设备[0]-逆变器4-待机",
           "Type": 0,
-          "No": 4,
+          "No": 3,
           "InputOutPut": 1,
-          "SelectData": "0"
+          "SelectData": "1"
         }
       ]
     },
@@ -205,7 +173,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1180,
+          "RtdbNo": 1150,
           "Desc": "设备[5]-逆变器5-运行状态",
           "Type": 1,
           "No": 0,
@@ -221,28 +189,20 @@
           "SelectData": "2"
         },
         {
-          "RtdbNo": 517,
-          "Desc": "设备[0]-逆变器5-停机",
-          "Type": 0,
-          "No": 2,
-          "InputOutPut": 1,
-          "SelectData": "5"
-        },
-        {
           "RtdbNo": 519,
           "Desc": "设备[0]-逆变器5-故障停机",
           "Type": 0,
-          "No": 3,
+          "No": 2,
           "InputOutPut": 1,
-          "SelectData": "4"
+          "SelectData": "3"
         },
         {
           "RtdbNo": 521,
           "Desc": "设备[0]-逆变器5-待机",
           "Type": 0,
-          "No": 4,
+          "No": 3,
           "InputOutPut": 1,
-          "SelectData": "0"
+          "SelectData": "1"
         }
       ]
     },
@@ -254,7 +214,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1202,
+          "RtdbNo": 1166,
           "Desc": "设备[6]-逆变器6-运行状态",
           "Type": 1,
           "No": 0,
@@ -270,28 +230,20 @@
           "SelectData": "2"
         },
         {
-          "RtdbNo": 523,
-          "Desc": "设备[0]-逆变器6-停机",
-          "Type": 0,
-          "No": 2,
-          "InputOutPut": 1,
-          "SelectData": "5"
-        },
-        {
           "RtdbNo": 525,
           "Desc": "设备[0]-逆变器6-故障停机",
           "Type": 0,
-          "No": 3,
+          "No": 2,
           "InputOutPut": 1,
-          "SelectData": "4"
+          "SelectData": "3"
         },
         {
           "RtdbNo": 527,
           "Desc": "设备[0]-逆变器6-待机",
           "Type": 0,
-          "No": 4,
+          "No": 3,
           "InputOutPut": 1,
-          "SelectData": "0"
+          "SelectData": "1"
         }
       ]
     },
@@ -303,7 +255,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1224,
+          "RtdbNo": 1182,
           "Desc": "设备[7]-逆变器7-运行状态",
           "Type": 1,
           "No": 0,
@@ -319,28 +271,20 @@
           "SelectData": "2"
         },
         {
-          "RtdbNo": 529,
-          "Desc": "设备[0]-逆变器7-停机",
-          "Type": 0,
-          "No": 2,
-          "InputOutPut": 1,
-          "SelectData": "5"
-        },
-        {
           "RtdbNo": 531,
           "Desc": "设备[0]-逆变器7-故障停机",
           "Type": 0,
-          "No": 3,
+          "No": 2,
           "InputOutPut": 1,
-          "SelectData": "4"
+          "SelectData": "3"
         },
         {
           "RtdbNo": 533,
           "Desc": "设备[0]-逆变器7-待机",
           "Type": 0,
-          "No": 4,
+          "No": 3,
           "InputOutPut": 1,
-          "SelectData": "0"
+          "SelectData": "1"
         }
       ]
     },
@@ -352,7 +296,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1246,
+          "RtdbNo": 1198,
           "Desc": "设备[8]-逆变器8-运行状态",
           "Type": 1,
           "No": 0,
@@ -368,28 +312,20 @@
           "SelectData": "2"
         },
         {
-          "RtdbNo": 535,
-          "Desc": "设备[0]-逆变器8-停机",
-          "Type": 0,
-          "No": 2,
-          "InputOutPut": 1,
-          "SelectData": "5"
-        },
-        {
           "RtdbNo": 537,
           "Desc": "设备[0]-逆变器8-故障停机",
           "Type": 0,
-          "No": 3,
+          "No": 2,
           "InputOutPut": 1,
-          "SelectData": "4"
+          "SelectData": "3"
         },
         {
           "RtdbNo": 539,
           "Desc": "设备[0]-逆变器8-待机",
           "Type": 0,
-          "No": 4,
+          "No": 3,
           "InputOutPut": 1,
-          "SelectData": "0"
+          "SelectData": "1"
         }
       ]
     },
@@ -401,7 +337,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1268,
+          "RtdbNo": 1214,
           "Desc": "设备[9]-逆变器9-运行状态",
           "Type": 1,
           "No": 0,
@@ -417,28 +353,20 @@
           "SelectData": "2"
         },
         {
-          "RtdbNo": 541,
-          "Desc": "设备[0]-逆变器9-停机",
-          "Type": 0,
-          "No": 2,
-          "InputOutPut": 1,
-          "SelectData": "5"
-        },
-        {
           "RtdbNo": 543,
           "Desc": "设备[0]-逆变器9-故障停机",
           "Type": 0,
-          "No": 3,
+          "No": 2,
           "InputOutPut": 1,
-          "SelectData": "4"
+          "SelectData": "3"
         },
         {
           "RtdbNo": 545,
           "Desc": "设备[0]-逆变器9-待机",
           "Type": 0,
-          "No": 4,
+          "No": 3,
           "InputOutPut": 1,
-          "SelectData": "0"
+          "SelectData": "1"
         }
       ]
     },
@@ -450,7 +378,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1290,
+          "RtdbNo": 1230,
           "Desc": "设备[10]-逆变器10-运行状态",
           "Type": 1,
           "No": 0,
@@ -466,28 +394,20 @@
           "SelectData": "2"
         },
         {
-          "RtdbNo": 547,
-          "Desc": "设备[0]-逆变器10-停机",
-          "Type": 0,
-          "No": 2,
-          "InputOutPut": 1,
-          "SelectData": "5"
-        },
-        {
           "RtdbNo": 549,
           "Desc": "设备[0]-逆变器10-故障停机",
           "Type": 0,
-          "No": 3,
+          "No": 2,
           "InputOutPut": 1,
-          "SelectData": "4"
+          "SelectData": "3"
         },
         {
           "RtdbNo": 551,
           "Desc": "设备[0]-逆变器10-待机",
           "Type": 0,
-          "No": 4,
+          "No": 3,
           "InputOutPut": 1,
-          "SelectData": "0"
+          "SelectData": "1"
         }
       ]
     }
