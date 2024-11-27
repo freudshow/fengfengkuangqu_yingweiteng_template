@@ -21,23 +21,6 @@
       "DveProtocl": 0,
       "DveModel": "MultiMeter",
       "Phase": 0
-    },
-    {
-      "DveID": 1,
-      "DveIsValid": "Y",
-      "DveAddr": [
-        "01",
-        "02",
-        "03",
-        "04",
-        "05",
-        "06"
-      ],
-      "DevPort": null,
-      "DevDescription": null,
-      "DveProtocl": 0,
-      "DveModel": "MultiMeter",
-      "Phase": 0
     }
   ],
   "DataConfig": [
